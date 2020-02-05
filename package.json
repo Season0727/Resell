@@ -1,0 +1,24 @@
+{
+  "name": "resell",
+  "version": "1.0.0",
+  "description": "Buy and Resell Products Online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Season0727/Resell.git"
+  },
+  "author": "Raul Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Season0727/Resell/issues"
+  },
+  "homepage": "https://github.com/Season0727/Resell#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
